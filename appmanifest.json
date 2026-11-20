@@ -1,0 +1,17 @@
+{
+	"name": "Лучший девичник для невесты",
+	"short_name": "Лучший девичник для невесты",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/photo-output (4) (1) (1) (1) (1) (1) (1)_128x128.png",
+			"sizes": "388x388",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
